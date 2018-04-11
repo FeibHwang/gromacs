@@ -375,7 +375,7 @@ std::string getCoolQuote()
         { "Uh-oh .... Right Again", "Laurie Anderson" },
         { "(That makes 100 errors; please try again.)", "TeX" },
         { "O My God, They Killed Kenny !", "South Park" },
-        { "Drugs are Bad, mmokay", "South Park" },
+        { "Drugs are Bad, mkay", "South Park" },
         { "Let's Unzip And Let's Unfold", "Red Hot Chili Peppers" },
         { "I'd Be Water If I Could", "Red Hot Chili Peppers" },
         { "Space May Be the Final Frontier, But It's Made in a Hollywood Basement", "Red Hot Chili Peppers" },
